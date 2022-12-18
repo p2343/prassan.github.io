@@ -1,0 +1,18 @@
+.portfolio {
+    display: block;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: underline;
+    border: 5px solid blue;
+    background-color: rgb(223, 171, 13);
+    border-radius: 80px;
+    width: 300px;
+    line-height: 40px;
+    margin-left: 500px;
+
+
+}
+.portfolio:hover{
+    background-color:darkkhaki;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
