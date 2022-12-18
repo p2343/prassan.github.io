@@ -1,0 +1,14 @@
+body{
+    background-color: burlywood;
+}
+.welcome,
+.Enter
+{
+    margin:200px 250px;
+    padding:10px;
+    display: block;
+    text-align: center;
+    border: 10px solid rgb(4, 52, 78);
+    border-radius:100px;
+    width: 1000px;
+}
